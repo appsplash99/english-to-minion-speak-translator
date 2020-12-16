@@ -32,7 +32,7 @@
 ## About The Project
 
 
-<a href="/app_screenshot.jpg" target="blank"><img align="center" src="static/minion-translator-image.png" alt="minion-translator-image" height="500px" /></a>
+<img align="center" src="static/minion-translator-image.png" alt="minion-translator-image" height="500px" /></a>
 
 English to Minion Speak Translator is a simple web app which translates plain english into minion speak language.
 
