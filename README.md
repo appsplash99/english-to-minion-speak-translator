@@ -4,7 +4,7 @@
     <h1 align="center">⌨️ English to Minion Speak Translator</h1>
 
   <p align="center">
-    Translate English to Bana Language
+    Translate English to Banana Language
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="20" height="20"/> and :heart:.
     <br />
     <a href="https://eng-to-minion-translator.netlify.app" target="blank">:rocket: Play It Here</a>
