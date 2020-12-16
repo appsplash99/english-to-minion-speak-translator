@@ -21,16 +21,13 @@ body {
   border-color: black;
   border-style: 10px solid;
 }
-
 .curve-all-edges {
   border-radius: 1rem;
 }
-
 .curve-top-edge-only {
   border-top-left-radius: 1rem;
   border-top-right-radius: 1rem;
 }
-
 .curve-bottom-edge-only {
   border-bottom-left-radius: 1rem;
   border-bottom-right-radius: 1rem;
