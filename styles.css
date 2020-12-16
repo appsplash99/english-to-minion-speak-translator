@@ -141,6 +141,10 @@ body {
 
 /* Mobile View */
 @media (max-width: 530px) {
+  body {
+    width: 90vw;
+    margin: 0 0;
+  }
   .title-style {
     font-size: 1.9rem;
   }
