@@ -18,8 +18,7 @@ body {
 
 /* css style to curve border */
 .has-border {
-  /* border-color: black; */
-  border-style: 10px solid black;
+  border-style: 1px solid black;
 }
 .curve-all-edges {
   border-radius: 1rem;
