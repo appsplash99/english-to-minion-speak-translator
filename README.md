@@ -7,8 +7,7 @@
     Translate English to Bana Language
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="20" height="20"/> and :heart:.
     <br />
-    <!-- TODO: -->
-    <a href="" target="blank">:rocket: Play It Here</a>
+    <a href="https://eng-to-minion-translator.netlify.app" target="blank">:rocket: Play It Here</a>
   </p>
 </p>
 
